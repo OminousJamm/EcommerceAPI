@@ -82,7 +82,7 @@ namespace E_CommerceAPI.Controllers
                 return NotFound();
             }
 
-            return user;
+            return user***;
         }
 
 
